@@ -6,9 +6,10 @@
     and initialliy it's values will be empty space and then after every move 
     we will change the value according to player's choice of move. '''
 
-# theBoard = {'7': ' ' , '8': ' ' , '9': ' ' ,
-#            '4': ' ' , '5': ' ' , '6': ' ' ,
-#            '1': ' ' , '2': ' ' , '3': ' ' }
+TheBoard:
+# {'7': ' ' , '8': ' ' , '9': ' ' ,
+# '4': ' ' , '5': ' ' , '6': ' ' ,
+# '1': ' ' , '2': ' ' , '3': ' ' }
 
 ''' We will have to print the updated board after every move in the game and 
     thus we will make a function in which we'll define the printBoard function
