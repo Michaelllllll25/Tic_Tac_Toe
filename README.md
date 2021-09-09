@@ -7,9 +7,9 @@
     we will change the value according to player's choice of move. '''
 
 TheBoard:
-# {'7': ' ' , '8': ' ' , '9': ' ' ,
-# '4': ' ' , '5': ' ' , '6': ' ' ,
-# '1': ' ' , '2': ' ' , '3': ' ' }
+# '7'|'8'|'9'
+# '4'|'5'|'6'
+# '1'|'2'|'3'
 
 ''' We will have to print the updated board after every move in the game and 
     thus we will make a function in which we'll define the printBoard function
